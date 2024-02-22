@@ -1,5 +1,3 @@
-DSCI 510: Homework 4
-
 Description: 
 The question that I am interested in answering for my project is weather there is a correlation between weather and crime rate where I'd expect that as the temperature increases, the number of crimes should also increase. This is based off of the heat hypothesis which mentions that hotter temperatures would prompt more aggressive behaviors and thus an increase in crime. I'm also interested in seeing whether less crime is observed on rainy days versus sunny days as I expect less foot traffic outside during rainy days. To answer these questions, I have decided to use three data sources, 2 for weather and 1 that contains the crime reports in San Francisco between the range of January 2019 to January 2021. There will be four datasets in the form of a csv file from three data sources in this code with one combined file: 
 

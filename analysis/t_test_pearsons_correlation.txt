@@ -1,0 +1,6 @@
+T-Test of Low vs. High Temperature (threshold=65)
+T-statistic=1.2412040131491457, p-value=0.21491335517372737
+T-Test of Average Temperature vs. Number of Crimes
+T-statistic=-129.10941408188668, p-value=0.0
+Pearson's Correlation of Average Temperature vs. Number of Crimes
+Pearson's Correlation=0.038273204666322655, p-value=0.29135259674123326

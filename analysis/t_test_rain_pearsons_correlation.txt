@@ -1,0 +1,4 @@
+T-Test of Rain vs. Number of Crimes
+T-statistic=-0.391810034031109, p-value=0.7077717300121881
+Pearson's Correlation of Rain vs. Number of Crimes
+Pearson's Correlation=-0.013601097435770659, p-value=0.7077717300121881

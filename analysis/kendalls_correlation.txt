@@ -1,0 +1,4 @@
+Kendall's correlation between Number of Crimes and Average Temperature (Combined):
+Correlation=0.021827350537686942, p-value=0.36882828555101055
+Kendall's correlation between RAIN and Number of Crimes:
+Correlation=-0.0012070860098820193, p-value=0.967558436971956

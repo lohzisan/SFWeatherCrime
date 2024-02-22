@@ -1,0 +1,2 @@
+Spearman's correlation between Number of Crimes and Average Temperature (Combined): correlation=0.029946186260175124, p-value=0.4091031074412783
+Spearman's correlation between RAIN and Number of Crimes: correlation=-0.001474310963926766, p-value=0.9675903866532303
